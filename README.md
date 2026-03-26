@@ -1,6 +1,5 @@
 # Prime Number Checker By Typescript Made By Marwan Codex
-
-#### This is a Prime Number Checker By Typescript Language
+This is a Prime Number Checker By Typescript Language
 
 ## In This Program:
 We Check The Number if It's a Prime Number or Not.
